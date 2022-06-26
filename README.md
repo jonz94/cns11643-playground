@@ -23,7 +23,7 @@
 
 ### Golang
 
-[main.go](./main.go)
+[main.go](./go/main.go)
 
 ![screenshots](https://i.imgur.com/R1EBhMd.png)
 
